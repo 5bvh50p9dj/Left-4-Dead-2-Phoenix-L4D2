@@ -81,11 +81,7 @@
 3. **Download and initialize** installation package
 4. **Run .exe as Administrator** for full functionality
 
-### 🚀 METHOD 2: REPOSITORY ACCESS
-1. **Navigate to Releases section** in repository
-2. **Download latest version** (v5.8.2)
-3. **Extract package** to preferred directory
-4. **Run .exe as Administrator** to activate
+---
 
 ### ⚙️ SYSTEM REQUIREMENTS
 - **OS**: Windows 7/10/11 64-bit
